@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_col2"
+        android:title="@string/show_only_2_colunms"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_col3"
+        android:title="@string/show_only_3_colunms"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_col4"
+        android:title="@string/show_only_4_colunms"
+        app:showAsAction="never" />
+
+</menu>
